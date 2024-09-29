@@ -94,7 +94,7 @@
     "q": "^1.0.1",
     "react": "^0.14.0",
     "rewire": "^2.3.3",
-    "rollup": "^0.26.3",
+    "rollup": "^2.79.2",
     "run-sequence": "^1.1.0",
     "selenium-webdriver": "^2.47.0",
     "semver": "^5.1.0",
